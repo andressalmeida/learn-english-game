@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'aprendendo-ingles';
+  title = 'Aprendendo Inglês';
 
   public jogoEmAndamento: boolean = true;
   public tipoEncerramento: string | undefined = '' 
