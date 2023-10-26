@@ -1,4 +1,23 @@
-# AprendendoIngles
+# Learn English Game
+Projeto simula um jogo em que a pontuação é feita a cada tradução realizada corretamente, enquanto perde-se uma vida a cada erro.
+
+![demo](https://github.com/andressalmeida/learn-english-game/blob/main/public/demo.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________________________________________________________________________________
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
